@@ -4,7 +4,7 @@ import "fmt"
 
 // Interface command describes method execute() that recieves memmory pointer mem.
 //
-// The method execute() is called in compiling part of the interpretator,
+// The method execute() is called in compiling part of the interpreter,
 // so inherit this interface if you want to add a new operation.
 type command interface {
 	execute(mem *memory)
