@@ -1,3 +1,3 @@
-module github.com/Alxus228/Brainfuck-Interpreter
+module github.com/Alexander-Riabovol/Brainfuck-Interpreter
 
 go 1.17
