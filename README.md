@@ -11,7 +11,7 @@ If you want to execute your own code instead of the '_Hello World!!_', clone thi
 To install brainfuck package and succesfully use it in your project, you should:
 * **Clone it** into a _new folder_.
 * **Cut out** **_brainfuck_** folder, and **paste** it into your project root.
-* **Add lines** `github.com/Alexander-Riabovol/Brainfuck-Interpreter/brainfuck` in import in `.go` file, where you're going to use it, and `module github.com/Alexander-Riabovol/Brainfuck-Interpreter` into `go.mod` file
+* **Add lines** `github.com/AlryC/Brainfuck-Interpreter/brainfuck` in import in `.go` file, where you're going to use it, and `module github.com/AlryC/Brainfuck-Interpreter` into `go.mod` file
 
 If you want to use the project in this repository, you should just:
 * **Clone it** into a folder with an appropriate name.
